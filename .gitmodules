@@ -1,0 +1,6 @@
+[submodule "app/src/test-submod"]
+	path = app/src/test-submod
+	url = https://github.com/rares1200/test-submod.git
+[submodule "app/src/main/java/com/example/rnechita/test-submod"]
+	path = app/src/main/java/com/example/rnechita/test-submod
+	url = https://github.com/rares1200/test-submod.git
